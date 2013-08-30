@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Spain traduction -->
+    <string name="app_name">Anime Wall</string>
+    <string name="action_settings">Configuración</string>
+    <string name="set_wallpaper">Sets</string>
+    <string name="todo">TODO</string>
+    <string name="about">Info</string>
+    <string name="title_activity_about">información</string>
+    <string name="About">Algo de información:</string>
+    <string name="info">Esta aplicación fue creada con un enfoque de código abierto! Y por lo tanto no va a ganar un centavo, y el código estará disponible tan pronto como sea posible!</string>
+    <string name="addus">Agregar nosotros</string>
+    <string name="help">¿Necesitas ayuda?</string>
+    <string name="how">1) Volver a la Página de inicio;\n
+        2) Pulse fnchè no es el elemento emergente para elegir fondos;\n
+        3) Ejecutar "Anime Wall";\n
+        4) Desplácese por las miniaturas;\n
+        5) Pulse el botón "set",\n
+        6) Se decide sobre su éxtasis!\n</string>
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2009 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ -->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_miku</item>
+        <item>wallpaper_bakuman</item>
+        <item>wallpaper_eva1</item>
+        <item>wallpaper_eva3</item>
+        <item>wallpaper_air_cute</item>
+        <item>wallpaper_airgear1</item>
+        <item>wallpaper_airgear2</item>
+        <item>wallpaper_eva2</item>
+        <item>wallpaper_evangelion_sky</item>
+        <item>wallpaper_neon</item>
+        <item>wallpaper_fmp0</item>
+        <item>wallpaper_fmp1</item>
+        <item>wallpaper_fma</item>
+        <item>wallpaper_guiltycrown</item>
+        <item>wallpaper_miku1</item>
+    </string-array>
+
+
+    <string-array name="info" translatable="false">
+        <item>MIKU !!!</item>
+        <item>Bakuman</item>
+        <item>Gendo and Shinji</item>
+        <item>Asuka</item>
+        <item>CUTE ^_^</item>
+        <item>AirGear</item>
+        <item>AirGear 1</item>
+        <item>Asuka and Rei, really nice ass LOL !!</item>
+        <item>SKY in Eva</item>
+        <item>TeamEva</item>
+        <item>Chidori ^_^</item>
+        <item>Soldier Chidori</item>
+        <item>Eduarad</item>
+        <item>Guilty Crown</item>
+        <item>MIKU winter</item>
+    </string-array>
+</resources>

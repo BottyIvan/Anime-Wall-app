@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/ivan/Scrivania/animeProject/anime/src/main/res" >
+            <file
+                name="flo_widget_empty_logo"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-xhdpi/flo_widget_empty_logo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva1"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_eva1.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva2"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_eva2.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_airgear2_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_airgear2_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fmp0_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_fmp0_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fmp1"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_fmp1.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_bakuman_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_bakuman_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_guiltycrown_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_guiltycrown_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_miku1_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_miku1_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva3"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_eva3.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_miku1"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_miku1.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_miku"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_miku.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_airgear1_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_airgear1_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fmp0"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_fmp0.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_bakuman"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_bakuman.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva2_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_eva2_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fmp1_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_fmp1_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_guiltycrown"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_guiltycrown.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_miku_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_miku_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_airgear1"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_airgear1.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva3_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_eva3_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva1_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_eva1_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_airgear2"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_airgear2.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values-fr/strings"
+                qualifiers="fr" >
+                <string name="About" >Quelques infos:
+                </string>
+                <string name="about" >Info
+                </string>
+                <string name="action_settings" >réglages
+                </string>
+                <string name="addus" >Ajoutez-nous
+                </string>
+                <string name="info" >Cette application a été créée avec une approche open source! Et ne sera donc pas gagner un sou, et le code sera mis à disposition dès que possible!
+                </string>
+                <string name="title_activity_about" >informations
+                </string>
+                <string name="set_wallpaper" >Définit
+                </string>
+                <string name="help" >Besoin d aide?
+                </string>
+                <string name="app_name" >Anime Wall
+                </string>
+                <string name="todo" >TODO
+                </string>
+            </file>
+            <file
+                name="flo_widget_empty_logo"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-mdpi/flo_widget_empty_logo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values-es/strings"
+                qualifiers="es" >
+                <string name="addus" >Agregar nosotros
+                </string>
+                <string name="app_name" >Anime Wall
+                </string>
+                <string name="how" >1) Volver a la Página de inicio;\n
+        2) Pulse fnchè no es el elemento emergente para elegir fondos;\n
+        3) Ejecutar "Anime Wall";\n
+        4) Desplácese por las miniaturas;\n
+        5) Pulse el botón "set",\n
+        6) Se decide sobre su éxtasis!\n
+                </string>
+                <string name="set_wallpaper" >Sets
+                </string>
+                <string name="todo" >TODO
+                </string>
+                <string name="help" >¿Necesitas ayuda?
+                </string>
+                <string name="About" >Algo de información:
+                </string>
+                <string name="title_activity_about" >información
+                </string>
+                <string name="action_settings" >Configuración
+                </string>
+                <string name="info" >Esta aplicación fue creada con un enfoque de código abierto! Y por lo tanto no va a ganar un centavo, y el código estará disponible tan pronto como sea posible!
+                </string>
+                <string name="about" >Info
+                </string>
+            </file>
+            <file
+                name="btn_action"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/color/btn_action.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="flo_widget_empty_logo"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-hdpi/flo_widget_empty_logo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values/extra_wallpapers.xml"
+                qualifiers="" >
+                <string-array name="extra_wallpapers" >
+                </string-array>
+            </file>
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="setup_img_height" >100dp
+                </dimen>
+                <dimen name="actionbar_min_height" >30dp
+                </dimen>
+                <dimen name="actionbar_icon_size" >50dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="actionbar_title_top_margin" >5dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="actionbar_title_text_size" >22sp
+                </dimen>
+                <dimen name="title_top_margin" >10dp
+                </dimen>
+                <dimen name="page_top_margin" >50dp
+                </dimen>
+            </file>
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Botty"
+                    parent="AppBaseTheme" >
+                    <item name="android:windowBackground">
+@color/light_gray
+                    </item>
+                    <item name="android:actionBarStyle">
+@style/ActionBarStyle
+                    </item>
+                </style>
+
+                <style name="ActionTitle" >
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif
+                    </item>
+                    <item name="android:textColor">
+@color/dark_gray
+                    </item>
+                    <item name="android:textSize">
+@dimen/actionbar_title_text_size
+                    </item>
+                    <item name="android:layout_marginTop">
+@dimen/actionbar_title_top_margin
+                    </item>
+                </style>
+
+                <style
+                    name="ActionButton.ITALICTEXT"
+                    parent="@android:style/Widget.ActionButton" >
+                    <item name="android:layout_height">
+15dp
+                    </item>
+                    <item name="android:layout_gravity">
+right
+                    </item>
+                    <item name="android:textSize">
+22sp
+                    </item>
+                    <item name="android:textStyle">
+italic|bold
+                    </item>
+                    <item name="android:textAllCaps">
+false
+                    </item>
+                    <item name="android:paddingTop">
+3dp
+                    </item>
+                    <item name="android:paddingBottom">
+3dp
+                    </item>
+                    <item name="android:layout_margin">
+5dp
+                    </item>
+                    <item name="android:minHeight">
+15dp
+                    </item>
+                    <item name="android:textColor">
+@color/btn_action
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="ActionBarStyle"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:displayOptions">
+disableHome|showCustom
+                    </item>
+                    <item name="android:background">
+@drawable/ab_bg
+                    </item>
+                    <item name="android:customNavigationLayout">
+@layout/nava_bar
+                    </item>
+                    <item name="android:paddingTop">
+0dp
+                    </item>
+                </style>
+
+                <style name="cardnow" >
+                    <item name="android:layout_width">
+match_parent
+                    </item>
+                    <item name="android:layout_height">
+match_parent
+                    </item>
+                    <item name="android:background">
+@drawable/card
+                    </item>
+                </style>
+
+                <style
+                    name="ActionButton"
+                    parent="@android:style/Widget.ActionButton" >
+                    <item name="android:layout_height">
+15dp
+                    </item>
+                    <item name="android:layout_gravity">
+right
+                    </item>
+                    <item name="android:textSize">
+22sp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textAllCaps">
+false
+                    </item>
+                    <item name="android:paddingTop">
+3dp
+                    </item>
+                    <item name="android:paddingBottom">
+3dp
+                    </item>
+                    <item name="android:layout_margin">
+5dp
+                    </item>
+                    <item name="android:minHeight">
+15dp
+                    </item>
+                    <item name="android:textColor">
+@color/btn_action
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="holo_red_light" >#ffff4444
+                </color>
+                <color name="holo_blue_light" >#ff33b5e5
+                </color>
+                <color name="holo_blue_bright" >#ff00ddff
+                </color>
+                <color name="white" >#fff
+                </color>
+                <color name="holo_green_dark" >#ff669900
+                </color>
+                <color name="black" >#000
+                </color>
+                <color name="holo_green_light" >#ff99cc00
+                </color>
+                <color name="light_gray" >#ffdbdbdb
+                </color>
+                <color name="holo_blue_dark" >#ff0099cc
+                </color>
+                <color name="dark_gray" >#ff1c1c1c
+                </color>
+                <color name="holo_red_dark" >#ffcc0000
+                </color>
+                <color name="shadow_gray" >#888c8c8c
+                </color>
+            </file>
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="how" >1) Return to the Home;\n
+        2) Press fnchè is not the popup to choose backgrounds;\n
+        3) Run "Anime Wall";\n
+        4) Scroll through the thumbnails;\n
+        5) Press the "set",\n
+        6) It is decided about your ecstatic!\n
+                </string>
+                <string name="About" >Some info:
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="help" >Need help?
+                </string>
+                <string name="set_wallpaper" >Set
+                </string>
+                <string name="app_name" >Anime Wall
+                </string>
+                <string name="addus" >Add-us
+                </string>
+                <string name="title_activity_about" >About
+                </string>
+                <string name="about" >Info
+                </string>
+                <string name="todo" >TODO
+                </string>
+                <string name="info" >This app was created with an open source approach! And therefore will not earn a penny, and the code will be made available as soon as possible!
+                </string>
+            </file>
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values/wallpapers.xml"
+                qualifiers="" >
+                <string-array
+                    name="info"
+                    translatable="false" >
+                    <item>
+MIKU !!!
+                    </item>
+                    <item>
+Bakuman
+                    </item>
+                    <item>
+Gendo and Shinji
+                    </item>
+                    <item>
+Asuka
+                    </item>
+                    <item>
+CUTE ^_^
+                    </item>
+                    <item>
+AirGear
+                    </item>
+                    <item>
+AirGear 1
+                    </item>
+                    <item>
+Asuka and Rei, really nice ass LOL !!
+                    </item>
+                    <item>
+SKY in Eva
+                    </item>
+                    <item>
+TeamEva
+                    </item>
+                    <item>
+Chidori ^_^
+                    </item>
+                    <item>
+Soldier Chidori
+                    </item>
+                    <item>
+Eduarad
+                    </item>
+                    <item>
+Guilty Crown
+                    </item>
+                    <item>
+MIKU winter
+                    </item>
+                </string-array>
+                <string-array
+                    name="wallpapers"
+                    translatable="false" >
+                    <item>
+wallpaper_miku
+                    </item>
+                    <item>
+wallpaper_bakuman
+                    </item>
+                    <item>
+wallpaper_eva1
+                    </item>
+                    <item>
+wallpaper_eva3
+                    </item>
+                    <item>
+wallpaper_air_cute
+                    </item>
+                    <item>
+wallpaper_airgear1
+                    </item>
+                    <item>
+wallpaper_airgear2
+                    </item>
+                    <item>
+wallpaper_eva2
+                    </item>
+                    <item>
+wallpaper_evangelion_sky
+                    </item>
+                    <item>
+wallpaper_neon
+                    </item>
+                    <item>
+wallpaper_fmp0
+                    </item>
+                    <item>
+wallpaper_fmp1
+                    </item>
+                    <item>
+wallpaper_fma
+                    </item>
+                    <item>
+wallpaper_guiltycrown
+                    </item>
+                    <item>
+wallpaper_miku1
+                    </item>
+                </string-array>
+            </file>
+            <file
+                name="wallpaper_eva1"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_eva1.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva2"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_eva2.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_airgear2_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_airgear2_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fmp0_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_fmp0_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fmp1"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_fmp1.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_bakuman_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_bakuman_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_guiltycrown_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_guiltycrown_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_miku1_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_miku1_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva3"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_eva3.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_miku1"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_miku1.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_miku"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_miku.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_airgear1_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_airgear1_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fmp0"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_fmp0.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_bakuman"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_bakuman.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva2_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_eva2_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fmp1_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_fmp1_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_guiltycrown"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_guiltycrown.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_miku_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_miku_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_airgear1"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_airgear1.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva3_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_eva3_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_eva1_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_eva1_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_airgear2"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_airgear2.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="single_item_layout"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout/single_item_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="wallpaper_chooser"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout/wallpaper_chooser.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_list_people"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout/item_list_people.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="wallpaperitem"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout/wallpaperitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_layout"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout/list_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_about"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout/activity_about.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/values-it/strings"
+                qualifiers="it" >
+                <string name="addus" >Aggiungici
+                </string>
+                <string name="todo" >TODO
+                </string>
+                <string name="help" >Serve Aiuto?
+                </string>
+                <string name="set_wallpaper" >Imposta
+                </string>
+                <string name="action_settings" >Impostazioni
+                </string>
+                <string name="app_name" >Anime Wall
+                </string>
+                <string name="title_activity_about" >Informazioni
+                </string>
+                <string name="About" >Qualche info:
+                </string>
+                <string name="info" >Questa app è stata creata con un approccio open source ! E quindi non guadagneremo nemmeno un centesimo, e il codice sarà reso disponibile al più presto !
+                </string>
+                <string name="how" >1) Tornare nella Home;\n
+        2) Premere finchè non viene il popup per scegliere gli sfondi;\n
+        3) Avviare "Anime Wall";\n
+        4) Scorrere le miniature;\n
+        5) Premere il pulsante "imposta",\n
+        6) Si estasiato della tua scielta !\n
+                </string>
+                <string name="about" >Info
+                </string>
+            </file>
+            <file
+                name="card"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable/card.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="about"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/menu/about.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="wallpaper_chooser"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout-sw600dp/wallpaper_chooser.xml"
+                qualifiers="sw600dp"
+                type="layout" />
+            <file
+                name="activity_about"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout-sw600dp/activity_about.xml"
+                qualifiers="sw600dp"
+                type="layout" />
+            <file
+                name="nava_bar"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout/nava_bar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="cid_confused"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-xhdpi/cid_confused.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="cid_confused"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-hdpi/cid_confused.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="cid_confused"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-mdpi/cid_confused.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_bg"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable/ab_bg.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="powered"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/layout/powered.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="wallpaper_neon"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_neon.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_evangelion_sky_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_evangelion_sky_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_neon_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_neon_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_evangelion_sky_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_evangelion_sky_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_neon_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_neon_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_evangelion_sky"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_evangelion_sky.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_evangelion_sky"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_evangelion_sky.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_neon"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_neon.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_air_cute_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_air_cute_small.png"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_air_cute_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_air_cute_small.png"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_air_cute"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_air_cute.png"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_air_cute"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_air_cute.png"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fma_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_fma_small.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fma_small"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_fma_small.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fma"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-sw600dp-nodpi/wallpaper_fma.jpg"
+                qualifiers="sw600dp-nodpi"
+                type="drawable" />
+            <file
+                name="wallpaper_fma"
+                path="/home/ivan/Scrivania/animeProject/anime/src/main/res/drawable-nodpi/wallpaper_fma.jpg"
+                qualifiers="nodpi"
+                type="drawable" />
+        </source>
+        <source path="/home/ivan/Scrivania/animeProject/anime/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/ivan/Scrivania/animeProject/anime/src/debug/res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Franch traduction -->
+    <string name="app_name">Anime Wall</string>
+    <string name="action_settings">réglages</string>
+    <string name="set_wallpaper">Définit</string>
+    <string name="todo">TODO</string>
+    <string name="about">Info</string>
+    <string name="title_activity_about">informations</string>
+    <string name="About">Quelques infos:</string>
+    <string name="info">Cette application a été créée avec une approche open source! Et ne sera donc pas gagner un sou, et le code sera mis à disposition dès que possible!</string>
+    <string name="addus">Ajoutez-nous</string>
+    <string name="help">Besoin d aide?</string>
+
+
+</resources>

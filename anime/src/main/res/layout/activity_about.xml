@@ -1,0 +1,111 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="16dp"
+    tools:context=".About"
+    android:background="@color/light_gray">
+
+
+    <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+            style="@style/cardnow"
+            >
+
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/addus"
+                android:id="@+id/button"
+                android:onClick="popUp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                style="@style/ActionButton"
+                android:layout_gravity="bottom|right"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Changelog:"
+            android:id="@+id/button2"
+            android:layout_gravity="bottom|left"
+            style="@style/ActionButton" />
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:orientation="vertical"
+                android:layout_gravity="left|bottom">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="@string/About"
+                    android:id="@+id/textView"
+                    android:layout_gravity="left|top"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/info"
+                    android:id="@+id/textView2"
+                    android:layout_gravity="center_horizontal|top"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="308dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/help"
+                    android:id="@+id/textView3"
+                    style="@style/ActionButton"
+                    android:layout_gravity="center_horizontal|top" />
+
+                <ScrollView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/scrollView"
+                    android:layout_gravity="center_horizontal|top" >
+
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/how"
+                        android:id="@+id/textView4" />
+                </ScrollView>
+
+            </LinearLayout>
+
+            <include
+                android:layout_width="wrap_content"
+                android:layout_height="23dp"
+                layout="@layout/powered"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp" />
+
+            <View android:id="@+id/divider"
+                  android:background="?android:attr/dividerHorizontal"
+                  android:layout_marginTop="2dp"
+                  android:layout_height="1dp"
+                  android:layout_width="match_parent" />
+
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</RelativeLayout>
